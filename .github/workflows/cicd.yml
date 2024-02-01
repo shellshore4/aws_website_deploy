@@ -3,7 +3,7 @@ name: S3 Update
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
