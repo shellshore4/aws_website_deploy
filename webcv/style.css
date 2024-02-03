@@ -60,3 +60,16 @@ li:before {
     color: #DB4D57;
 }
 
+
+.counter-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px; 
+    margin-bottom: 50px; 
+}
+
+.counter-number {
+    font-size: 24px; 
+    color: #FFF; 
+   
+}
